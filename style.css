@@ -33,7 +33,26 @@
             text-align: center;
         }
 
-       .cake {width: 200px}
+       .cake {
+            width: 300px;
+       }
 
 	.source {text-align: center; color: #000;}
 		
+.ninth {
+            margin:20px;
+            padding:10px;
+            text-align: center;
+            border: 1px solid;
+            width:25%;
+             margin-left:300px;
+            margin-right: 300px;}
+
+.tenth {
+            margin:20px;
+            padding:10px;
+            text-align: center;
+            border: 1px solid;
+            width:25%;
+             margin-left:50px;
+            margin-right: 200px;}
