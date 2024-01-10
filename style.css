@@ -1,7 +1,7 @@
         header {
            text-align: center;
            padding:10px;
-           background-image:url("file:///C:/Users/L%20E%20N%20O%20V%20O%20-%20P%20C/Desktop/ICT9Ruby_Q2SW1_Ochoa_Joseph-main/ICT9Ruby_Q2SW1_Ochoa_Joseph-main/images/cake-bg.jpg");
+           background-image:url("/images/cake-bg.jpg");
         }
 
         .title {
